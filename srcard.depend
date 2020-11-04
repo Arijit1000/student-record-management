@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1560874022 source:c:\users\hp\documents\new folder\programming with c++\srcard\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1560874024 source:c:\users\concatenate\desktop\final assignment answer\srcard\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1561949188 source:d:\computer science curriculum\1st year\second semister\c++ two\project\srcard\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1579763851 source:d:\computer science curriculum\1st year\second semister\c++ two\project\srcard 1\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+
